@@ -84,6 +84,14 @@ et al., 2001; Hawley et al., 2004)
 
 ## Monaural 
 
+## 
+
+<img class="fragment" data-fragment-index="0" src="./my_figures/Anatomy_of_the_Human_Ear.svg" width="45%">
+<img class="fragment" data-fragment-index="1" src="./my_figures/Uncoiled_cochlea_with_basilar_membrane_color.png" width="45%">
+<img class="fragment" data-fragment-index="2" src="./my_figures/auditory_nerve.png" width="25%">
+
+## Monaural cues and Auditory scence analysis
+
 - Normal hearing listeners can segregate sounds remarkably well from monaural signals.
 - The brain can use the statistical regularities of a sound to group acoustic energy that is likely originated from the same source.
 
@@ -297,12 +305,6 @@ Plomp, 1988; Wightman & Kistler, 1992).
 
 # What and where 
 
-## 
-
-<img class="fragment" data-fragment-index="0" src="./my_figures/Anatomy_of_the_Human_Ear.svg" width="45%">
-<img class="fragment" data-fragment-index="1" src="./my_figures/Uncoiled_cochlea_with_basilar_membrane_color.png" width="45%">
-<img class="fragment" data-fragment-index="2" src="./my_figures/auditory_nerve.png" width="25%">
-
 
 ##
 
@@ -429,9 +431,9 @@ The correlation between objective and behavioural measurements is excellent (r =
 </li>
 
 
-# The effect of age and hearing loss in objective binaural measures
+## The effect of age and hearing loss in objective binaural measures
 
-## Does the IPM-FR differ between healthy and impaired listeners?
+- Does the IPM-FR differ between healthy and impaired listeners?
 
 <ul class="fragment" data-fragment-index="0"> Vercammen et al. (2018) </ul>
 
@@ -471,8 +473,6 @@ Binaural processing of low frequency sounds is significantly deteriorated by age
 A larger IPM-FR dynamic range was associated with lower (better) IPD discrimination.
 </li>
 
-##
-
 
 ## Conclusions
 
@@ -493,14 +493,30 @@ Hearing-impaired listeners who typically find noisy environments disproportionat
 Similar problems are encountered by users of cochlear implants, again owing to the limited frequency resolution available with implants (Clark 2003).
 </li>
 
+<li class="fragment" data-fragment-index="3"> 
+Binaural release from masking may improve detection thresholds up to 12 dB for multiple speech interferers(Jones and Litovsky, 2011), and facilitates source segregation provided that streaming can build up and natural onset cues are present (Drennan, Gatehouse, and Lever, 2003).
+</li>
+
+<li class="fragment" data-fragment-index="4"> 
+Segregation is always better for the combination of both ITDs and ILDs cues (Culling, Hawley, and Litovsky 2004)
+</li>
+
+<li class="fragment" data-fragment-index="5">
+Objetive measures of binaural processing agree with difficulties to localize and understand speech in observed in hearing impaired and elder listeners.
 </li>
 
 
 
-## Ackknoledgments
+
+## Acknowledgments
 
 - Organization for inviting us!!!
 - Australian Research Council [project number FL160100108]
 - Thanks to you for "listening"
+
+<img src="./my_figures/ahh.jpg" width="60%">
+<br>
+<img src="./my_figures/ahh_team.jpg" width="60%">
+
 
 <!-- ## References -->
