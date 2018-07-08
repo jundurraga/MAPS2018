@@ -216,7 +216,7 @@ ITDs in the envelope of the signal are also used determine the location of a sou
 <img src="./my_figures/wave_length.png" width="40%">
 
 <li class="fragment" data-fragment-index="1"> 
-ITDs are ambiguous for frequencies which wavelengths are smaller than the head 'diameter'.
+ITDs are ambiguous for frequencies which half-wavelengths are smaller than the head 'diameter'.
 </li>
 
 
@@ -470,7 +470,7 @@ The correlation between objective and behavioural measurements is excellent (r =
 
 <ul class="fragment" data-fragment-index="0"> Vercammen et al. (2018) </ul>
 
-<img src="./my_figures/vercommen_pta.tif" width="60%" class="fragment" data-fragment-index="0">
+<img src="./my_figures/vercommen_pta.png" width="60%" class="fragment" data-fragment-index="0">
 
 <li class="fragment" data-fragment-index="1">
 Interaural difference in hearing thresholds near the stimulation frequency (500 Hz) did not exceed 10 dB HL.
@@ -487,7 +487,7 @@ The subjective loudness was adjusted to match that of normal listeners.
 
 ##
 
-Stimuli were amplitude modulated sinusoidals (500 Hz) using IPDs ranging from 0 (diotic) to 180
+Stimuli were amplitude modulated sinusoidals (500 Hz) using IPDs ranging from 0 (diotic) to 180 (dichotic).
 
 <img src="./my_figures/vercommen_paradigm_fig.png" width="40%">
 
