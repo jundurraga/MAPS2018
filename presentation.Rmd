@@ -544,5 +544,4 @@ ITM-FR obtained by switching between
 - ITM-FRs obtained with symmetric ITDs show a decaying damping-like pattern peaking at multiple periods of the center frequency. 
 
 
-
 ## References
