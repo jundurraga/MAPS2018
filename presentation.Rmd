@@ -165,18 +165,18 @@ ITDs in the envelope of the signal are also used determine the location of a sou
 ##
 
 <div id="left50">
-<img class="fragment" data-fragment-index="0" src="./my_figures/_d_type_low_500_p1_0.00_p2_-1.57_mi_0.0_mp1_0.00_mp2_0.00_cf_500.0_mf_32.0.png" width="70%" data-audio-src="./audio/_d_type_low_500_p1_0.00_p2_-1.57_mi_0.0_mp1_0.00_mp2_0.00_cf_500.0_mf_32.0.wav" data-audio-advance=-1>
+<img class="fragment" data-fragment-index="0" src="./my_figures/p1_0.00_p2_-1.57_mi_0.0_mp1_0.00_mp2_0.00_cf_500.0_mf_32.0.png" width="70%" data-audio-src="./audio/p1_0.00_p2_-1.57_mi_0.0_mp1_0.00_mp2_0.00_cf_500.0_mf_32.0.wav" data-audio-advance=-1>
 <p class="fragment" data-fragment-index="0"> 500 Hz tone TFS left-to-right </p>
 
-<img class="fragment" data-fragment-index="1" src="./my_figures/_d_type_low_500_p1_0.00_p2_-0.00_mi_1.0_mp1_0.00_mp2_-1.57_cf_500.0_mf_32.0.png" width="70%" data-audio-src="./audio/_d_type_low_500_p1_0.00_p2_-0.00_mi_1.0_mp1_0.00_mp2_-1.57_cf_500.0_mf_32.0.wav" data-audio-advance=-1>
+<img class="fragment" data-fragment-index="1" src="./my_figures/p1_0.00_p2_-0.00_mi_1.0_mp1_0.00_mp2_-1.57_cf_500.0_mf_32.0.png" width="70%" data-audio-src="./audio/p1_0.00_p2_-0.00_mi_1.0_mp1_0.00_mp2_-1.57_cf_500.0_mf_32.0.wav" data-audio-advance=-1>
 <p class="fragment" data-fragment-index="1"> Modulated 500 Hz tone <br> with envelope itd (ipd) left-to-right</p>
 </div>
 
 <div id="rigth50">
-<img class="fragment" data-fragment-index="2" src="./my_figures/_d_type_low_500_p1_0.00_p2_-1.57_mi_0.0_mp1_0.00_mp2_0.00_cf_4000.0_mf_32.0.png" width="35%" data-audio-src="./audio/_d_type_low_500_p1_0.00_p2_-1.57_mi_0.0_mp1_0.00_mp2_0.00_cf_4000.0_mf_32.0.wav" data-audio-advance=-1>
+<img class="fragment" data-fragment-index="2" src="./my_figures/p1_0.00_p2_-1.57_mi_0.0_mp1_0.00_mp2_0.00_cf_4000.0_mf_32.0.png" width="35%" data-audio-src="./audio/p1_0.00_p2_-1.57_mi_0.0_mp1_0.00_mp2_0.00_cf_4000.0_mf_32.0.wav" data-audio-advance=-1>
 <p class="fragment" data-fragment-index="2"> 4000 Hz tone TFS itd (ipd) left-to-rigth </p>
 
-<img class="fragment" data-fragment-index="3" src="./my_figures/_d_type_low_500_p1_0.00_p2_0.00_mi_1.0_mp1_0.00_mp2_-1.57_cf_4000.0_mf_32.0.png" width="35%" data-audio-src="./audio/_d_type_low_500_p1_0.00_p2_-0.00_mi_1.0_mp1_0.00_mp2_-1.57_cf_4000.0_mf_32.0.wav" data-audio-advance=-1>
+<img class="fragment" data-fragment-index="3" src="./my_figures/p1_0.00_p2_0.00_mi_1.0_mp1_0.00_mp2_-1.57_cf_4000.0_mf_32.0.png" width="35%" data-audio-src="./audio/p1_0.00_p2_-0.00_mi_1.0_mp1_0.00_mp2_-1.57_cf_4000.0_mf_32.0.wav" data-audio-advance=-1>
 <p class="fragment" data-fragment-index="3"> Modulated 4000 Hz tone <br> with envelope itd left-to-rigth </p>
 </div>
 
