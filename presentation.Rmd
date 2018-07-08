@@ -21,7 +21,7 @@ output:
       after_body: doc_suffix.html
     css: presentation.css
     # pandoc_args: [ "--output=index.html"] 
-bibliography: ./library.bib  
+# bibliography: ./library.bib  
 ---
 
 
@@ -48,12 +48,16 @@ https://jundurraga.github.io/MAPS2018/?print-pdf#/
 
 How do we recognize what one person is saying when others are speaking at the same time?
 
+When everyone at a well-attended party talks at the same level, the speech of the attended talker at a distance of 0.7 m has a signal-to-noise ratio (SNR) of about 0 dB (the background is as intense as the target talker Plomp 1977). 
+This level is sufficient to give adequate intelligibility for listeners with normal hearing (Miller 1947).
+
+
 <img src="./my_figures/cocktail_party_effect.png" width="50%">
 
-##
+## Auditory scene analysis
 - An critial role of the auditory system is to parse the inputs from the left and right ears into auditory objects - auditory scene analysis. This is an escential role for survival, recognition, and communication.
 
-- Binaural hearing provide us cues that allow us to estimate the relative number and location of sources and objects in the environment.
+- Binaural hearing provide cues that allow us to estimate the relative number and location of sources and objects in the environment.
 
 - These cues also help us to estimate the dimensions and characteristics of rooms as well as hear out speakers in the presence of interfering noise.
 
@@ -191,7 +195,7 @@ ITDs (using fine structure) are useful for frequencies below  1500 Hz
 ITDs in the envelope of the signal are also used determine the location of a source in both (lower and higher frequencies)
 </li>
 
-##
+## Temporal fine structure and envelope ITDs
 
 <div id="left50">
 <img class="fragment" data-fragment-index="0" src="./my_figures/p1_0.00_p2_-1.57_mi_0.0_mp1_0.00_mp2_0.00_cf_500.0_mf_32.0.png" width="70%" data-audio-src="./audio/p1_0.00_p2_-1.57_mi_0.0_mp1_0.00_mp2_0.00_cf_500.0_mf_32.0.wav" data-audio-advance=-1>
@@ -268,7 +272,7 @@ Asymmetric hearing loss, hearing impairment and ageing negatively affect the pre
 
 <li class="fragment" data-fragment-index="2"> Binaural release from masking may improve detection threshold up to about 16 dB for frequencies around 250 Hz and around 3 dB at 1500 Hz </li>
 
-## 
+## Spatial Release from Masking  
 
 <img class="fragment" data-fragment-index="0" src="./my_figures/bmld_cartoon_srm_front.png" width="45%" data-audio-src="./audio/convolved/convolved_arctic_a0002_d_type_speech_target_0_d1_0_d2_0_snr_0.wav" data-audio-advance=-1 data-audio-advance=-1 >
 <img class="fragment" data-fragment-index="1" src="./my_figures/bmld_cartoon_srm.png" width="45%" data-audio-src="./audio/convolved/convolved_arctic_a0002_d_type_speech_target_0_d1_-80_d2_80_snr_0.wav" data-audio-advance=-1 data-audio-advance=-1>
@@ -290,48 +294,21 @@ A separation of only 10° between two voices is already strong enough to allow s
 Plomp, 1988; Wightman & Kistler, 1992).
 </li>
 
-##
-Hearing-impaired listeners who typically find noisy environments disproportionately difficult for understanding speech, whether they wear a hearing aid or not (Killion 1997; Moore 1998)
-
-their auditory filter bandwidths are wider than normal as a result of outer hair cell loss (see Moore 2008). The wider
-bandwidths lead to both spectral smearing of auditory features and reduced signal-to-noise ratio in the
-presence of background noise. Similar problems are encountered by users of cochlear implants, again owing
-to the limited frequency resolution available with implants (Clark 2003).
-
-
-Plomp (1977) has
-calculated that when everyone at a well-attended party
-talks at the same level, the speech of the attended talker
-at a distance of 0.7 m has a signal-to-noise (S/N) ratio
-of approximately 0 dB—the background is as intense as
-the target talker
-
-0 dB is sufficient to give adequate
-intelligibility with normal pronunciation and redun-
-dancy for listeners with normal hearing (Miller 1947)
-
-
-
-AUDITORY SCENE ANALYSIS (Bregman 1990).
-
-brain using two types of information to group together sound components that have originated from a common source: heuristics based on general properties of sound sources, and schematic knowledge about specific sounds. General properties such as the common onset and (for periodic
-sounds) the harmonic relations between frequency components from a single source can help partition sounds from different sources that occur simul-
-taneously; other properties, such as continuity of pitch, timbre, overall level and spatial location can help to track a single sound source across time
-
-Bregman also recognizes that, as well as general heuristics, the brain may employ schema-based grouping 
-
 
 # What and where 
 
 ## 
+
 <img class="fragment" data-fragment-index="0" src="./my_figures/Anatomy_of_the_Human_Ear.svg" width="45%">
 <img class="fragment" data-fragment-index="1" src="./my_figures/Uncoiled_cochlea_with_basilar_membrane_color.png" width="45%">
 <img class="fragment" data-fragment-index="2" src="./my_figures/auditory_nerve.png" width="25%">
 
 
 ##
-<p class="fragment" data-fragment-index="0"> Input to one ear </p>
-<img class="fragment" data-fragment-index="0" src="./my_figures/spectrogram_cheap.png" width="45%">
+
+Input to one ear
+
+<img src="./my_figures/spectrogram_cheap.png" width="45%">
 
 <p class="fragment" data-fragment-index="1"> Output at the auditory nerve level </p>
 <img class="fragment" data-fragment-index="1" src="./my_figures/rater.png" width="45%">
@@ -389,20 +366,8 @@ EEG allows to record electrical activity of the brain by means of electrodes pla
 
 ##
 
-<li class="fragment" data-fragment-index="0">
-Interaural time differences (ITDs)  are the main cue used by humans and other mammals to determine the horizontal position below 1.5 kHz.
-</li>
-
-<li class="fragment" data-fragment-index="1">
-Interaural time differences conveyed in the fine structure are critical for speech understanding and segregation with in the cocktail party problem (e.g. Swaminathan et al.)
-</li>
-
-<li class="fragment" data-fragment-index="2">
-ITD sensitivity is achieved by coincidence-detecting neurons in the superior olive - the first structure of binaural processing in the auditory pathway.
-</li>
-
 <li class="fragment" data-fragment-index="3">
-Objective meaures of binaural processing can be obtained by using stimuli where the temporal fine structure is manipulated so that the perceived location of the sound image changes periodically (e.g. 6.7 Hz) overtime. 
+Objective measures of binaural processing can be obtained by using stimuli where the temporal fine structure is manipulated so that the perceived location of the sound image changes periodically (e.g. 6.7 Hz) overtime. 
 
 <img src="./my_figures/example.png" width="40%">
 
@@ -430,11 +395,11 @@ By swithcing the "sound image" from left to right at 6.7 Hz, an strong steady-st
 </ul>
 
 <ul class="fragment" data-fragment-index="2">
-IPM-FRs are larger when the stimuli casuses an strong lateralization percept.
+IPM-FRs are larger when the stimuli causes a strong lateralization percept.
 </ul>
 
 
-## How well do objective IPM-FR and behavioural measuremnts correlate?
+## How well do objective IPM-FR and behavioural measurements correlate with each other?
 
 Behavioural task
 
@@ -487,7 +452,7 @@ The subjective loudness was adjusted to match that of normal listeners.
 
 ##
 
-Stimuli were amplitude modulated sinusoidals (500 Hz) using IPDs ranging from 0 (diotic) to 180 (dichotic).
+Stimuli were amplitude modulated tones (500 Hz) using IPDs ranging from 0 (diotic) to 180 (dichotic).
 
 <img src="./my_figures/vercommen_paradigm_fig.png" width="40%">
 
@@ -512,11 +477,30 @@ A larger IPM-FR dynamic range was associated with lower (better) IPD discriminat
 ## Conclusions
 
 
+<li class="fragment" data-fragment-index="0">
+Interaural level and, in particular, interaural time differences conveyed by low frequencies (< 1500 Hz) are critical for speech understanding and segregation in the cocktail party problem (e.g. Swaminathan et al. 2016)
+</li>
+
+<!-- <li class="fragment" data-fragment-index="0"> -->
+<!-- Interaural time differences are the main cue used to determine the horizontal position below 1.5 kHz and provide an strong cue for segreating multiple sources. -->
+<!-- </li> -->
+
+<li class="fragment" data-fragment-index="1">
+Hearing-impaired listeners who typically find noisy environments disproportionately difficult for understanding speech, whether they wear a hearing aid or not (Killion 1997; Moore 1998).
+</li>
+
+<li class="fragment" data-fragment-index="2">
+Similar problems are encountered by users of cochlear implants, again owing to the limited frequency resolution available with implants (Clark 2003).
+</li>
+
+</li>
+
+
 
 ## Ackknoledgments
 
 - Organization for inviting us!!!
 - Australian Research Council [project number FL160100108]
+- Thanks to you for "listening"
 
-
-## References
+<!-- ## References -->
