@@ -55,11 +55,11 @@ This level is sufficient to give adequate intelligibility for listeners with nor
 <img src="./my_figures/cocktail_party_effect.png" width="50%">
 
 ## Auditory scene analysis
-- An critial role of the auditory system is to parse the inputs from the left and right ears into auditory objects - auditory scene analysis. This is an escential role for survival, recognition, and communication.
+- A critial role of the auditory system is to parse the inputs from the left and right ears into auditory objects - auditory scene analysis. This is an essential role for survival, recognition, and communication.
 
-- Binaural hearing provide cues that allow us to estimate the relative number and location of sources and objects in the environment.
+- Binaural hearing provides cues that allow us to estimate the relative number and location of sources and objects in the environment.
 
-- These cues also help us to estimate the dimensions and characteristics of rooms as well as hear out speakers in the presence of interfering noise.
+- These cues also help us to estimate the dimensions and characteristics of rooms as well as to hear out speakers in the presence of interfering noise.
 
 
 <img src="./my_figures/casa_Grothe_2010.png" width="50%">
@@ -76,7 +76,7 @@ et al., 2001; Hawley et al., 2004)
 >- This task is extreamly challenging for listeners with sensorineural hearing loss (with or without hearing aids) or cochlear implant users (Loizou et al., 2009; Marrone et al., 2008a).
 
 
->- Morover, liseners with "normal" hearing and elder listeners experience great difficulty when listening in the presence of background noise (Ruggles et al., 2011; Swaminathan et al., 2015; Gallun et al., 2013).
+>- Moreover, listeners with "normal" hearing and elder listeners experience great difficulty when listening in the presence of background noise (Ruggles et al., 2011; Swaminathan et al., 2015; Gallun et al., 2013).
 
 >- Hearing impaired listeners with symmetric binaural hearing often demonstrate reduced SRM primarily due to increased thresholds in spatially separated conditions (Arbogast et al., 2005; Marrone et al., 2008b; Best et al., 2012)
 
@@ -93,7 +93,7 @@ et al., 2001; Hawley et al., 2004)
 ## Monaural cues and Auditory scence analysis
 
 - Normal hearing listeners can segregate sounds remarkably well from monaural signals.
-- The brain can use the statistical regularities of a sound to group acoustic energy that is likely originated from the same source.
+- The brain can use the statistical regularities of a sound to group acoustic characteristics that are likely originated from the same source.
 
 <div id="left">
 <br>
@@ -183,7 +183,7 @@ Plomp, 1988) </li>
 
 <li class="fragment" data-fragment-index="3">
 ILDs resulting from the **head shadow** provide an advantage by sheltering the ear turned toward the target source from noise from the other side.
-However, listeners with unilateral hearing loss straggle when the target sound comes from the impaired side, specially in the presence of background noise.
+However, listeners with unilateral hearing loss struggle when the target sound comes from the impaired side, specially in the presence of background noise.
 </li> 
 
 
@@ -200,7 +200,7 @@ ITDs (using fine structure) are useful for frequencies below  1500 Hz
 </li>
 
 <li class="fragment" data-fragment-index="4">
-ITDs in the envelope of the signal are also used determine the location of a source in both (lower and higher frequencies)
+ITDs in the envelope of the signal are also used to determine the location of a source in both lower and higher frequencies.
 </li>
 
 ## Temporal fine structure and envelope ITDs
@@ -269,9 +269,9 @@ Asymmetric hearing loss, hearing impairment and ageing negatively affect the pre
 
 - Speech recognition in the presence of background noise improves
 
-- hearing impairment may lead to a slightly weaker binaural benefit in patients  (Dillon, 2001)
+- Hearing impairment may lead to a slightly weaker binaural benefit in patients  (Dillon, 2001)
 
-- binaural stimulation sounds can be louder than with a monaural presentation without causing discomfort (even true for CI-treated patient)
+- Binaural stimulation sounds can be louder than with a monaural presentation without causing discomfort (even true for CI-treated patient)
 
 ## Binaural Release from Masking (or Binaural Squelch; or Hirsh effect)
 
@@ -286,7 +286,7 @@ Asymmetric hearing loss, hearing impairment and ageing negatively affect the pre
 <img class="fragment" data-fragment-index="1" src="./my_figures/bmld_cartoon_srm.png" width="45%" data-audio-src="./audio/convolved/convolved_arctic_a0002_d_type_speech_target_0_d1_-80_d2_80_snr_0.wav" data-audio-advance=-1 data-audio-advance=-1>
 
 <li class="fragment" data-fragment-index="2"> 
-Binaural release from masking may improve detection thresholds up to 12 dB for multiple speech interferers(Jones and Litovsky, 2011), and facilitates source segregation provided that streaming can build up and natural onset cues are present (Drennan, Gatehouse, and Lever, 2003).
+Binaural release from masking may improve detection thresholds up to 12 dB for multiple speech interferers (Jones and Litovsky, 2011), and facilitates source segregation provided that streaming can build up and natural onset cues are present (Drennan, Gatehouse, and Lever, 2003).
 </li>
 
 <li class="fragment" data-fragment-index="3"> 
@@ -369,7 +369,7 @@ EEG allows to record electrical activity of the brain by means of electrodes pla
 ##
 
 <li class="fragment" data-fragment-index="3">
-Objective measures of binaural processing can be obtained by using stimuli where the temporal fine structure is manipulated so that the perceived location of the sound image changes periodically (e.g. 6.7 Hz) overtime. 
+Objective measures of binaural processing can be obtained by using stimuli where the temporal fine structure is manipulated so that the perceived location of the sound image changes periodically (e.g. 6.7 Hz) over time. 
 
 <img src="./my_figures/example.png" width="40%">
 
@@ -392,13 +392,13 @@ Objective measures of binaural processing can be obtained by using stimuli where
 <img src="./my_figures/undurraga_2016.svg" width="100%">
 </ul>
 
-<ul class="fragment" data-fragment-index="1">
-By swithcing the "sound image" from left to right at 6.7 Hz, an strong steady-state response is evoked at that particular frequency
-</ul>
+<li class="fragment" data-fragment-index="1">
+By swithcing the "sound image" from left to right at 6.7 Hz, a strong steady-state response is evoked at that particular frequency
+</li>
 
-<ul class="fragment" data-fragment-index="2">
+<li class="fragment" data-fragment-index="2">
 IPM-FRs are larger when the stimuli causes a strong lateralization percept.
-</ul>
+</li>
 
 
 ## How well do objective IPM-FR and behavioural measurements correlate with each other?
@@ -433,7 +433,7 @@ The correlation between objective and behavioural measurements is excellent (r =
 
 ## The effect of age and hearing loss in objective binaural measures
 
-- Does the IPM-FR differ between healthy and impaired listeners?
+- Does the IPM-FR differ between healthy and impaired hearing listeners?
 
 <ul class="fragment" data-fragment-index="0"> Vercammen et al. (2018) </ul>
 
@@ -463,7 +463,8 @@ Stimuli were amplitude modulated tones (500 Hz) using IPDs ranging from 0 (dioti
 
 ##
 
-<img src="./my_figures/vercommen_ipm-fr.png" width="40%">
+<img src="./my_figures/vercommen_ipm-fr.png" width="30%">
+<img src="./my_figures/vercammena_ipm_fr_data.png" width="50%">
 
 <li class="fragment" data-fragment-index="0">
 Binaural processing of low frequency sounds is significantly deteriorated by age and hearing status.
@@ -494,7 +495,7 @@ Similar problems are encountered by users of cochlear implants, again owing to t
 </li>
 
 <li class="fragment" data-fragment-index="3"> 
-Binaural release from masking may improve detection thresholds up to 12 dB for multiple speech interferers(Jones and Litovsky, 2011), and facilitates source segregation provided that streaming can build up and natural onset cues are present (Drennan, Gatehouse, and Lever, 2003).
+Binaural release from masking may improve detection thresholds up to 12 dB for multiple speech interferers (Jones and Litovsky, 2011), and facilitates source segregation provided that streaming can build up and natural onset cues are present (Drennan, Gatehouse, and Lever, 2003).
 </li>
 
 <li class="fragment" data-fragment-index="4"> 
@@ -502,7 +503,7 @@ Segregation is always better for the combination of both ITDs and ILDs cues (Cul
 </li>
 
 <li class="fragment" data-fragment-index="5">
-Objetive measures of binaural processing agree with difficulties to localize and understand speech in observed in hearing impaired and elder listeners.
+Objective measures of binaural processing agree with difficulties to localize and understand speech in observed in hearing impaired and elder listeners.
 </li>
 
 
