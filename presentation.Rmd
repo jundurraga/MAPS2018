@@ -44,7 +44,7 @@ https://jundurraga.github.io/MAPS2018/?print-pdf#/
 
 # Introduction
 
-## Cocktail-party problem [@CherryExperimentsRecognitionSpeech1953]
+## Cocktail-party problem (Cherry, 1953)
 
 How do we recognize what one person is saying when others are speaking at the same time?
 
@@ -69,14 +69,14 @@ Grothe et al. (2010)
 ## 
 
 >- When the speech sources are spatially separated, normal listeners can perceptually segregate and selectively attend to the
-source of interest if the sounds arrive from the same location (Freyman et al., 1999; Brungart, 2001; Freyman
+source of interest if the sounds arrive from the same location - **spatial release from masking (SRM) ** (Freyman et al., 1999; Brungart, 2001; Freyman
 et al., 2001; Hawley et al., 2004)
 
 
 >- This task is extreamly challenging for listeners with sensorineural hearing loss (with or without hearing aids) or cochlear implant users (Loizou et al., 2009; Marrone et al., 2008a).
 
 
->- Morover, liseners with "normal" hearing and elder listeners experience great difficulty when listening under the presence of bacground noise (Ruggles et al., 2011; Swaminathan et al., 2015; Gallun et al., 2013).
+>- Morover, liseners with "normal" hearing and elder listeners experience great difficulty when listening in the presence of background noise (Ruggles et al., 2011; Swaminathan et al., 2015; Gallun et al., 2013).
 
 >- Hearing impaired listeners with symmetric binaural hearing often demonstrate reduced SRM primarily due to increased thresholds in spatially separated conditions (Arbogast et al., 2005; Marrone et al., 2008b; Best et al., 2012)
 
@@ -145,7 +145,7 @@ et al., 2001; Hawley et al., 2004)
 
 
 
-## What features conveyed by speech sounds?
+## Which features conveyed by speech sounds?
 
 - Temporal fine structure (TFS)
 - Envelope information (ENV)
@@ -159,7 +159,7 @@ et al., 2001; Hawley et al., 2004)
 
 ## Binaural cues
 
-We listening to sounds, we rely on three mechanisms for both localize a source and to perform sound source analysis 
+When listening to sounds, we rely on three mechanisms for both sound localization and auditory scene analysis 
 
 <li class ="fragment" data-fragment-index="0"> Interaural level differences (ILDs) </li>
 
@@ -199,7 +199,7 @@ ITDs within the physiological range experienced by human listeners about Â±760 Î
 ITDs (using fine structure) are useful for frequencies below  1500 Hz
 </li>
 
-<li class="fragment" data-fragment-index="3">
+<li class="fragment" data-fragment-index="4">
 ITDs in the envelope of the signal are also used determine the location of a source in both (lower and higher frequencies)
 </li>
 
@@ -267,7 +267,7 @@ Asymmetric hearing loss, hearing impairment and ageing negatively affect the pre
 
 - Just noticeable differences in intensity and frequency improve with signal redundancy
 
-- Speech recognition under the presence of background noise improves
+- Speech recognition in the presence of background noise improves
 
 - hearing impairment may lead to a slightly weaker binaural benefit in patients  (Dillon, 2001)
 

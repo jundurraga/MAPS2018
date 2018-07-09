@@ -46,25 +46,25 @@ converter = 'sinc_best'
 data = samplerate.resample(data, ratio, converter)
 data = data.astype(np.float)
 sound = wv.set_dbspl(np.squeeze(data), spl)
-# anf = audio_to_gbc(
-#     fs=fs,
-#     l_freq=l_freq,
-#     h_freq=h_freq,
-#     input_sound=sound
-# )
-#
-# figures_path = root_path + 'figures_an'
-# fig = at.plot_raster(data=anf,
-#                      plot_function=at.plot_raster,
-#                      figure_name_by=['type'],
-#                      group_factors=['type'],
-#                      split_by='duration'
-#                      )
-# ax = fig.get_axes()[0]
-# ax.set_title('')
-# fig.suptitle('')
-# fig.set_size_inches(12, 9)
-# fig.savefig(root_path + 'my_figures/rater.png')
+anf = audio_to_gbc(
+    fs=fs,
+    l_freq=l_freq,
+    h_freq=h_freq,
+    input_sound=sound
+)
+
+figures_path = root_path + 'figures_an'
+fig = at.plot_raster(data=anf,
+                     plot_function=at.plot_raster,
+                     figure_name_by=['type'],
+                     group_factors=['type'],
+                     split_by='duration'
+                     )
+ax = fig.get_axes()[0]
+ax.set_title('')
+fig.suptitle('')
+fig.set_size_inches(12, 9)
+fig.savefig(root_path + 'my_figures/rater.png')
 #  Parameters
 fft_size = 2048  # window size for the FFT
 step_size = int(fft_size / 16)  # distance to slide along the window (in time)
