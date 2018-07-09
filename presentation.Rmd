@@ -49,7 +49,7 @@ https://jundurraga.github.io/MAPS2018/?print-pdf#/
 How do we recognize what one person is saying when others are speaking at the same time?
 
 When everyone at a well-attended party talks at the same level, the speech of the attended talker at a distance of 0.7 m has a signal-to-noise ratio (SNR) of about 0 dB (the background is as intense as the target talker Plomp 1977). 
-This level is sufficient to give adequate intelligibility for listeners with normal hearing (Miller 1947).
+This level is sufficient to give adequate intelligibility for listeners with normal hearing (Miller, 1947).
 
 
 <img src="./my_figures/cocktail_party_effect.png" width="50%">
@@ -73,7 +73,7 @@ source of interest if the sounds arrive from the same location - **spatial relea
 et al., 2001; Hawley et al., 2004)
 
 
->- This task is extreamly challenging for listeners with sensorineural hearing loss (with or without hearing aids) or cochlear implant users (Loizou et al., 2009; Marrone et al., 2008a).
+>- This task is extreamly challenging for listeners with sensorineural hearing loss (with or without hearing aids) or cochlear implant users (Loizou et al., 2009; Marrone et al., 2008).
 
 
 >- Moreover, listeners with "normal" hearing and elder listeners experience great difficulty when listening in the presence of background noise (Ruggles et al., 2011; Swaminathan et al., 2015; Gallun et al., 2013).
@@ -241,7 +241,7 @@ ITDs are ambiguous for frequencies which half-wavelengths are smaller than the h
 </li>
 
 <li class="fragment" data-fragment-index="3"> 
-hearing-impaired subjects have wider cochlear filters (increasing spectral smearing), preventing them to localize a source in the vertical plane.
+Hearing-impaired subjects have wider cochlear filters (increasing spectral smearing), preventing them to localize a source in the vertical plane.
 </li>
 
 ## The precedence effect
@@ -311,7 +311,6 @@ Plomp, 1988; Wightman & Kistler, 1992).
 Input to one ear
 
 <img src="./my_figures/spectrogram_cheap.png" width="45%">
-
 <p class="fragment" data-fragment-index="1"> Output at the auditory nerve level </p>
 <img class="fragment" data-fragment-index="1" src="./my_figures/rater.png" width="45%">
 
