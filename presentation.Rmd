@@ -267,7 +267,7 @@ Asymmetric hearing loss, hearing impairment and ageing negatively affect the pre
 
 - Just noticeable differences in intensity and frequency improve with signal redundancy
 
-- Speech recognition in the presence of background noise improves
+- Speech recognition in the presence of background noise improves (Marrone 2008, Neher 2009)
 
 - Hearing impairment may lead to a slightly weaker binaural benefit in patients  (Dillon, 2001)
 
